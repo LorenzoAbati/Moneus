@@ -1,0 +1,25 @@
+PEER1 this is a transaction
+PEER3 this is a transaction
+PEER4 this is a transaction
+PEER4 the transaction was authentic
+PEER4 mining...
+PEER3 the transaction was authentic
+PEER3 mining...
+PEER4 done
+PEER1 this is a blockchain
+PEER1 this blockchain has more work
+PEER0 this is a blockchain
+PEER0 this blockchain has more work
+PEER2 16194
+PEER2 this is a blockchain
+PEER2 transactions are ok
+PEER2 MINER blockchain is legit!
+PEER3 this is a blockchain
+PEER3 I STOPPED MINING
+PEER4 this is a blockchain
+PEER3 transactions are ok
+PEER3 MINER blockchain is legit!
+PEER4 transactions are ok
+PEER4 MINER blockchain is legit!
+PEER1 ('PEER1', 'adesso ha', 1.0, 'moneus')
+PEER4 ('PEER4', 'adesso ha', 15.0, 'moneus')
